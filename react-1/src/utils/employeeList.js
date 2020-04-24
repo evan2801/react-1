@@ -2,7 +2,7 @@ import * as faker from 'faker';
 
 let employeeList =[];
 
-for(let i = 0; i<50; i++ ) {
+for(let i = 0; i<100; i++ ) {
 
     employeeList.push({
         id: faker.random.uuid(),
