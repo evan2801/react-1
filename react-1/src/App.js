@@ -52,7 +52,7 @@ function App() {
 
   return (
     <>
-      <Jumbotron fluid className='bg-dark text-light'>
+      <Jumbotron fluid className='bg-info text-light'>
         <Container>
           <h1>
             <span role='img' aria-label='emoji'>
